@@ -1,0 +1,2 @@
+class ItemTiming < ApplicationRecord
+end
